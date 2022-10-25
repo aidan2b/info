@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aidanb08
-- 👀 I’m interested in content writing, data journalism, data visualization, and much more!
-- 🌱 I’m currently learning Python, R, SQL, TensorFlow, AWS, etc.
-- 💞️ I’m looking to collaborate on investigative journalism projects but I am also open to other opportunities.
+- 🌐 Interested in international relations, investigative journalism, data visualization, and much more!
+- 🌱 Currently learning Python, R, SQL, Javascript, CSS, and HTML
+- 🫂 Eager to collaborate on a range of projects; experienced with collaboration in small and large groups.
 - 📫 How to reach me: aidanb@naver.com or https://www.linkedin.com/in/aidan-brooks/
 
 <!---
