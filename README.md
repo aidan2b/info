@@ -1,4 +1,4 @@
-🎓 Currently pursuing an MS in Data Journalism & Strategic Communication; BA in International Studies - Peace Studies
+🎓 Currently pursuing an MS in Data Journalism & Strategic Communication; acquired BA in International Studies - Peace Studies
 
 🌐 Interested in international relations, investigative journalism, natural language processing, data visualization, and much more!
 
