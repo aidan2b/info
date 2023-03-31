@@ -6,8 +6,11 @@
 
 🫂 Eager to collaborate on a range of projects; experienced with collaboration in small and large groups.
 
-📫 How to reach me: aidanb@naver.com
+📝 Check out my blog for my thoughts on a wide variety of topics: https://aidan2b.blog/
 
+☕ Buy me a coffee if you like my work: https://ko-fi.com/aidan
+
+📫 How to reach me: aidanb@naver.com
 <!---
 aidanb08/aidanb08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
